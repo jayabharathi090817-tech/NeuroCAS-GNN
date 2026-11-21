@@ -3,7 +3,6 @@
 
 The complete NeuroCAS-GNN implementation is provided in the following Jupyter Notebook:
 
-**[View Complete NeuroCAS-GNN Implementation](https://github.com/saiadhi090817-cmyk/NeuroCAS-GNN/blob/main/Neuro%20CAS-GNN%20git.ipynb)**
 
 The notebook contains the implementation workflow and associated experimental code.
 
